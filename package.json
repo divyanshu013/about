@@ -1,16 +1,16 @@
 {
-  "name": "@bnb/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "@divyanshu013/about",
+  "version": "1.0.0",
+  "description": "My personal npm card",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "@divyanshu013/about": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/divyanshu013/about.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://divyanshu013.dev",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/divyanshu013/about/issues"
   },
   "dependencies": {},
   "publishConfig": {
