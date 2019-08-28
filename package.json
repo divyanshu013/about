@@ -1,10 +1,10 @@
 {
   "name": "@divyanshu013/about",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal npm card",
   "main": "/bin/card.js",
   "bin": {
-    "@divyanshu013/about": "./bin/card.js"
+    "about": "./bin/card.js"
   },
   "repository": {
     "type": "git",
@@ -40,8 +40,5 @@
   "bugs": {
     "url": "https://github.com/divyanshu013/about/issues"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "dependencies": {}
 }
